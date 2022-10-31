@@ -1,0 +1,2 @@
+name,size,md5
+feladat_3.zip,7,7db6547858ac52522167183b2669426e
