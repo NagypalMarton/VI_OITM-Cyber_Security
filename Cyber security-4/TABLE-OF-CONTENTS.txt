@@ -1,0 +1,2 @@
+name,size,md5
+4_feladat.zip,3,08a45a800a959c762c36a97faff51a01
